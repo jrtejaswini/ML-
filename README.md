@@ -1,1 +1,1 @@
-# ML-
+# ML- This program implements the Backpropagation algorithm used in Artificial Neural Networks. It performs forward propagation to compute outputs, calculates error, and updates weights using backward propagation to minimize the loss over iterations.
